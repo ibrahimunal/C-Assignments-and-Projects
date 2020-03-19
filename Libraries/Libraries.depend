@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1555400727 source:e:\c\libraries\main.cpp
+	<stdio.h>
+	"ibrahim.h"
+
+1555400025 e:\c\libraries\ibrahim.h
+

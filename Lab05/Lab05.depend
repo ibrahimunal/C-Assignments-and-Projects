@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1556198233 source:e:\c\lab05\movie.cpp
+	<stdio.h>
+	<string.h>
+
+1556198565 source:e:\c\lab05\lab05.cpp
+	"LAb05.h"
+
+1556198565 e:\c\lab05\lab05.h
+

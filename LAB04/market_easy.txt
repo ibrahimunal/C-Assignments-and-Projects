@@ -1,0 +1,10 @@
+Beef; 56 m R 08 04 2019 22 04 2019
+Chicken; 22 m P 14 03 2019 14 05 2019
+Salmon; 48 m F 19 03 2019 22 03 2019
+Beef; 56 m R 15 03 2019 15 04 2019
+Beef; 56 m R 15 12 2018 15 03 2019
+Skim; 08 d 24 05 2018
+Beans; 12 c 08 09 2022 12 B
+Soap; 15 n C 3 B
+Vitamin; 98 n P 1 A
+Toy; 118 n O 11 B

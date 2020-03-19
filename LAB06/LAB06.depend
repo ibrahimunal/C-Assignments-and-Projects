@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1557389548 source:e:\c\lab06\main.c
+	<stdio.h>
+	<stdlib.h>
+	"treeapi.h"
+
+1557385418 e:\c\lab06\treeapi.h
+
+1557385600 source:e:\c\lab06\tree.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"treeapi.h"
+	"tree.h"
+
+1557385418 e:\c\lab06\tree.h
+

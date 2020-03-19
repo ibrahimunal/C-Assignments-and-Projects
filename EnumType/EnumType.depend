@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553708882 source:e:\c\enumtype\enum.cpp
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
